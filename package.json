@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "tumblr-cli",
+  "version": "0.0.1",
+  "description": "Tumblr client CLI",
+  "main": "index.js",
+  "bin": "bin/tumblrpost",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.1",
+    "inquirer": "^0.12.0",
+    "request": "^2.69.0",
+    "tumblr.js": "0.0.7",
+    "underscore": "^1.8.3"
+  }
+}

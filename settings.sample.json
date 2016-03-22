@@ -1,0 +1,10 @@
+{
+  "api": {
+    "tumblr": {
+      "consumer_key": "string",
+      "consumer_secret": "string",
+      "token": "string",
+      "token_secret": "string"
+    }
+  }
+}
